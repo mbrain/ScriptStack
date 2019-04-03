@@ -1,14 +1,14 @@
 # ScriptStack
 
-ScriptStack ist keine Scriptsprache im herkömmlichen Sinn sondern eine API mit der du deine eigene Scriptsprache erstellen kannst. 
+ScriptStack ist keine Scriptsprache im herkÃ¶mmlichen Sinn sondern eine API mit der du deine eigene Scriptsprache erstellen kannst. 
 
 ![ScriptStack HostStack](ScriptStackHostStack.png)
 
-Du kannst aber auch eine eigenen Stack schreiben und ScriptStack so mit speziell an deine Anforderungen abgestimmten Eigenschaften und Möglichkeiten erweitern.
+Du kannst aber auch eine eigenen Stack schreiben und ScriptStack so mit speziell an deine Anforderungen abgestimmten Eigenschaften und MÃ¶glichkeiten erweitern.
 
 ![ScriptStack HostStackHandler](ScriptStackHostStackHandler.png)
 
-Das kann z.B bei industrieller Software, Sensorik, Textverarbeitung mit speziellen Dateiformaten aber auch Spielen sehr nützlich sein. So kannst du deinen Code leicht wiederverwenden, mehrere Stacks aufeinander aufbauend entwickeln und deine Konstruktionen mit anderen teilen.
+Das kann z.B bei industrieller Software, Sensorik, Textverarbeitung mit speziellen Dateiformaten aber auch Spielen (z.B Unity) sehr nÃ¼tzlich sein. So kannst du deinen Code leicht wiederverwenden, mehrere Stacks aufeinander aufbauend entwickeln und deine Konstruktionen mit anderen teilen.
 
 ![ScriptStack Share](share.png)
 
